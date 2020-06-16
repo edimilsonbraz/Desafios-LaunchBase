@@ -27,6 +27,8 @@ Comece criando constantes para armazenar `nome`, `sexo`, `idade` e `contribuicao
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
 
+<p align = "center">
 <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
  </a>
+</p>    
